@@ -6,7 +6,7 @@ Date: 2020-02-27
 Author: Catherine Matias, Vincent Miele
 Maintainer: Vincent Miele <vincent.miele@univ-lyon1.fr>
 Description: Dynamic stochastic block model that combines a stochastic block model (SBM) for its static part with independent Markov chains for the evolution of the nodes groups through time, developed in  Matias and Miele (2016) <doi:10.1111/rssb.12200>.
-Imports: Rcpp, parallel, riverplot, RColorBrewer, grDevices, graphics,
+Imports: Rcpp, parallel, RColorBrewer, grDevices, graphics,
         stats
 LinkingTo: Rcpp
 License: GPL-3
